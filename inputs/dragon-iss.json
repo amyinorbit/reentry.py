@@ -1,0 +1,16 @@
+{
+    "planet": "Earth",
+    "craft": {
+        "name": "Crew Dragon",
+        "ballistic_coef": 350,
+        "lift_drag": 0.18
+    },
+    "sim": {
+        "max_it": 1000000,
+        "delta_t": 0.1,
+        "entry_interface": 122e3,
+        "fpa": -1.8,
+        "velocity": 7870,
+        "stop_alt": 10e3
+    }
+}

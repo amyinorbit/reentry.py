@@ -1,0 +1,16 @@
+{
+    "craft": {
+        "name": "Pathfinder",
+        "ballistic_coef": 62,
+        "lift_drag": 0
+    },
+    "planet": "Mars",
+    "sim": {
+        "max_it": 1000000,
+        "delta_t": 0.1,
+        "entry_interface": 135e3,
+        "fpa": -14.8,
+        "velocity": 7.5e3,
+        "stop_alt": 0
+    }
+}

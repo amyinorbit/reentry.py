@@ -1,0 +1,27 @@
+font.size : 7
+font.family: STIXGeneral
+mathtext.fontset: stix
+
+lines.linewidth : 0.8
+lines.markersize : 6
+figure.figsize : 4, 3
+
+markers.fillstyle: none
+
+axes.linewidth : 0.5
+
+xtick.top : True
+xtick.bottom : True
+xtick.major.width : 0.4
+xtick.major.size : 3.5
+xtick.minor.width : 0.3
+xtick.minor.size : 2
+xtick.direction : in
+
+ytick.left : True
+ytick.right : True
+ytick.major.width : 0.4
+ytick.major.size : 3.5
+ytick.minor.width : 0.3
+ytick.minor.size : 2
+ytick.direction : in

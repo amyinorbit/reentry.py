@@ -1,0 +1,16 @@
+{
+    "craft": {
+        "name": "MSL",
+        "ballistic_coef": 146,
+        "lift_drag": 0.24
+    },
+    "planet": "Mars",
+    "sim": {
+        "max_it": 1000000,
+        "delta_t": 0.1,
+        "entry_interface": 135e3,
+        "fpa": -15.5,
+        "velocity": 5.6e3,
+        "stop_alt": 0
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "craft": {
+        "name": "Red Dragon",
+        "ballistic_coef": 350,
+        "lift_drag": 0.18
+    },
+    "planet": "Mars",
+    "sim": {
+        "max_it": 1000000,
+        "delta_t": 0.1,
+        "entry_interface": 135e3,
+        "fpa": -13,
+        "velocity": 6.5e3,
+        "stop_alt": 0
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "craft": {
+        "name": "MER-B Opportunity",
+        "ballistic_coef": 90,
+        "lift_drag": 0
+    },
+    "planet": "Mars",
+    "sim": {
+        "max_it": 100000,
+        "delta_t": 0.1,
+        "entry_interface": 133e3,
+        "fpa": -11.5,
+        "velocity": 5.7e3,
+        "stop_alt": 0
+    }
+}
