@@ -142,7 +142,8 @@ def do_plot(xlabel, x, ylabel, y, label, title, fname):
   plt.ylabel(ylabel)
   plt.legend()
   plt.tight_layout()
-  plt.savefig(fname, dpi=300)
+  plt.show()
+  #plt.savefig(fname, dpi=300)
 
 if __name__ == '__main__':
   bodies = {
@@ -219,4 +220,6 @@ if __name__ == '__main__':
     'altitude (km)', alt/1e3,
     label, title, '%s-vel.png' % craft['name']
   )
-
+  
+  plt.close()
+  
